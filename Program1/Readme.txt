@@ -40,3 +40,30 @@ Freeware media assets were used from the following sources:
 (3) https://www.gameartguppy.com/
 (4) https://www.videvo.net/royalty-free-sound-effects/
 (5) https://freesound.org/search/
+
+______________________________________________________
+Group 6 Program 1 Submission
+College of Information Sciences, University of Arizona
+September 8, 2024
+
+Implementation:
+
+This project consists of all four requirement features
+(Follow Camera, Realistic Terrain, Trees & Foliage, and
+Baron's Castle) in addition to the choice feature, Areas 
+of Water, as outlined by the rubric. The Baron's Castle 
+was modeled using Unity's ProBuilder and the castle's 
+texture was provided with free use by Vastgoed Studios.
+
+Assets Used:
+
+
+
+Credits:
+
+- Modeling, texturing, and implementing of Baron's Castle,
+  & readme file writing done by Atticus Birkett
+- Terrain sculpting, painting, and detailing done by
+  Langston Campbell
+- Additional aesthetic/detail work done by Andrew Cota &
+  Carlo Scarpa
