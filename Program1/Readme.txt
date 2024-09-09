@@ -62,7 +62,10 @@ Quantum Nexus on the Unity Asset Store. The Baron's Castle was
 modeled using Unity's ProBuilder and the castle's brick texture 
 was provided with free use by Vastgoed Studios, the castle's 
 gate texture was provided for free by Vivittaart through 
-Dreamstime.com
+Dreamstime.com. Trees placed using Unity's Terrain System and 
+sourced from Realistic Tree 9 [Rainbow Tree] and Foliage Pack 
+Free, which were provided by Pixel Games and Jake Sullivan on 
+the Unity Asset Store respecitvely
 
 Assets Used:
 
@@ -77,6 +80,8 @@ Freeware media assets were used from the following sources:
 - https://assetstore.unity.com/
 - https://www.pexels.com/
 - https://www.dreamstime.com/
+
+Made using Unity's Built-In Render Pipeline.
 
 Credits:
 
