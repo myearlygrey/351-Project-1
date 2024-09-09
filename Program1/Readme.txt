@@ -65,7 +65,11 @@ gate texture was provided for free by Vivittaart through
 Dreamstime.com. Trees placed using Unity's Terrain System and 
 sourced from Realistic Tree 9 [Rainbow Tree] and Foliage Pack 
 Free, which were provided by Pixel Games and Jake Sullivan on 
-the Unity Asset Store respecitvely
+the Unity Asset Store respectively. Crash Site Created using 
+Rock package, Star Sparrow Modular Spaceship, Metal Plates, 
+Jammo, Destructor Spaceship, which were provided by shui861wy, 
+Ebal Studios, Hviluvator, Mix and Jam, and Eldanu on the Unity 
+Asset Store respectively, provided free of charge.
 
 Assets Used:
 
@@ -74,6 +78,11 @@ Assets Used:
 - Realistic Tree 9 [Rainbow Tree] by Pixel Games
 - Realistic Pine Tree Pack by Hipernt
 - Sailing Ships (14th/15th Century) by The Quantum Nexus
+- Rock package by shui861wy
+- Star Sparrow Modular Spaceship by Eval Studios
+- Metal Plates by Hviluvator
+- Jammo by Mix and Jam
+- Destructor Spaceship by Eldanu
 
 Freeware media assets were used from the following sources:
 
