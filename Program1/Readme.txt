@@ -51,13 +51,32 @@ Implementation:
 This project consists of all four requirement features
 (Follow Camera, Realistic Terrain, Trees & Foliage, and
 Baron's Castle) in addition to the choice feature, Areas 
-of Water, as outlined by the rubric. The Baron's Castle 
-was modeled using Unity's ProBuilder and the castle's 
-texture was provided with free use by Vastgoed Studios.
+of Water, as outlined by the rubric. 
+
+Terrain sculpting was done using Unity's Terrain System, 
+with textures sourced from FREE Fantasy Terrain Textures, 
+which was provided with free use via 3D HAven on the Unity 
+Asset Store. The medieval ship was sourced from Sailing Ships 
+(14th/15th Century), which was provided with free use via The 
+Quantum Nexus on the Unity Asset Store. The Baron's Castle was 
+modeled using Unity's ProBuilder and the castle's brick texture 
+was provided with free use by Vastgoed Studios, the castle's 
+gate texture was provided for free by Vivittaart through 
+Dreamstime.com
 
 Assets Used:
 
+- FREE Fantasy Terrain Textures by 3D Haven
+- Water Shaders V2.x by Nick Veselov #NVJOB
+- Realistic Tree 9 [Rainbow Tree] by Pixel Games
+- Realistic Pine Tree Pack by Hipernt
+- Sailing Ships (14th/15th Century) by The Quantum Nexus
 
+Freeware media assets were used from the following sources:
+
+- https://assetstore.unity.com/
+- https://www.pexels.com/
+- https://www.dreamstime.com/
 
 Credits:
 
